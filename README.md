@@ -1,7 +1,6 @@
 - 👋 Hi, I’m peejcodes
 - 👀 I’m interested in automation, web scraping, and game dev
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me - peejcodes@gmail.com
 
 <!---
